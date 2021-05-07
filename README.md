@@ -16,7 +16,6 @@ The SkimJob toolset is to be used to skim RFID cards (specifically HID brand). T
  ## Documentation
  - Schematic design
  - Component list (includes pricing)
- - Cricut RFID vinyl image
 
 ## Requirements
 - Python3
