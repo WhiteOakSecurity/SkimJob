@@ -3,7 +3,7 @@
 Official README for the SkimJob project
 
 ## Description & Purpose
-This is the SkimJob project. An all-inclusive RFId skimming toolset.
+This is the SkimJob project. An all-inclusive RFID skimming toolset.
 
 The SkimJob toolset is to be used to skim RFID cards (specifically HID brand). This toolset allows the user to overlay building RFID readers without damaging the reader. 
 
