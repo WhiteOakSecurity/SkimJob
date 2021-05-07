@@ -7,4 +7,5 @@
 - [Lipo Battery](https://www.adafruit.com/product/328) - $14.95
 - [Polycase](https://www.polycase.com/dc-47p) - $10.31
 - Misc items (USB Connectors / cables) - $15.00
+
 Total: $201.20
