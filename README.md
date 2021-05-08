@@ -2,6 +2,11 @@
 
 Official README for the SkimJob project
 
+<p align="center"> 
+    <img src="https://github.com/WhiteOakSecurity/SkimJob/blob/main/Documentation/skimjob_photo.png?raw=true" alt="alternate text">
+    <img src="https://github.com/WhiteOakSecurity/SkimJob/blob/main/Documentation/skimjob_photo2.png?raw=true" alt="alternate text">
+</p> 
+
 ## Description & Purpose
 This is the SkimJob project. An all-inclusive RFID skimming toolset.
 
@@ -14,8 +19,8 @@ The SkimJob toolset is to be used to skim RFID cards (specifically HID brand). T
  - Publicly available components
 
  ## Documentation
- - Schematic design
- - Component list (includes pricing)
+ - [Schematic design](https://github.com/WhiteOakSecurity/SkimJob/blob/main/Documentation/skimjob_schematic.jpg?raw=true)
+ - [Component list](https://github.com/WhiteOakSecurity/SkimJob/blob/main/Documentation/Component%20List.md)
 
 ## Requirements
 - Python3
