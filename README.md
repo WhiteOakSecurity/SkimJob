@@ -21,6 +21,9 @@ The SkimJob toolset is to be used to skim RFID cards (specifically HID brand). T
  ## Documentation
  - [Schematic design](https://github.com/WhiteOakSecurity/SkimJob/blob/main/Documentation/skimjob_schematic.jpg?raw=true)
  - [Component list](https://github.com/WhiteOakSecurity/SkimJob/blob/main/Documentation/Component%20List.md)
+ - Blog Post (Future link)
+ - Video overview (Future link)
+ - Recorded presentation (Future link)
 
 ## Requirements
 - Python3
@@ -44,9 +47,15 @@ The SkimJob toolset is to be used to skim RFID cards (specifically HID brand). T
     - RFID clone
 - Add LED lights to simulate RFID read functionality
 
+## Presentations
+- 2021 Minnesota Secure360
 
-## Credits
+## Thanks
 - @w3s.h4rd3n
 - @OctetStream
 - Donquixote
 - Sleestakoverflow
+
+## Credits
+- Proxmark3 Community
+- Fritzing Community
