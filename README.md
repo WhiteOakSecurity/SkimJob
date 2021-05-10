@@ -21,10 +21,10 @@ The SkimJob toolset is to be used to skim RFID cards (specifically HID brand). T
  ## Documentation
  - [Schematic design](https://github.com/WhiteOakSecurity/SkimJob/blob/main/Documentation/skimjob_schematic.jpg?raw=true)
  - [Component list](https://github.com/WhiteOakSecurity/SkimJob/blob/main/Documentation/Component%20List.md)
+ - [Slide deck](https://www.slideshare.net/BrettDeWall/skim-job-presentation)
  - Blog Post (Future link)
  - Video overview (Future link)
  - Recorded presentation (Future link)
- - Slide deck (Future link)
 
 ## Requirements
 - Python3
