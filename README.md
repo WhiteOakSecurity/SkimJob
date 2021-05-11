@@ -54,7 +54,7 @@ The SkimJob toolset is to be used to skim RFID cards (specifically HID brand). T
 ## Thanks
 - @ech0bit
 - @OctetStream
-- Donquixote
+- @DonQuixote651
 - Sleestakoverflow
 
 ## Credits
